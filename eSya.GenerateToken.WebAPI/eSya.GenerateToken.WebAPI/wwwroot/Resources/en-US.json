@@ -1,0 +1,21 @@
+{
+  "W0185": "Counter already Exist",
+  "W0186": "Counter Not Exist",
+  "W0187": "Counter Mapping already Exist",
+  "W0188": "Counter Mapping Not Exist",
+  "W0189": "Record does Not Exist",
+  "W0190": "Token Type already Exist",
+  "W0191": "Token Not Exist",
+  "W0192": "Token already Generated",
+  "W0193": "Token type is not defined. Can't generat token !",
+  "W0200": "Invalid OTP",
+
+
+
+  "S0001": "Saved Sucessfully",
+  "S0002": "Updated Sucessfully",
+  "S0003": "Activated Successfully",
+  "S0004": "De Activated Successfully",
+  "S0005": "Deleted Sucessfully",
+  "S0006": "Confirmed"
+}

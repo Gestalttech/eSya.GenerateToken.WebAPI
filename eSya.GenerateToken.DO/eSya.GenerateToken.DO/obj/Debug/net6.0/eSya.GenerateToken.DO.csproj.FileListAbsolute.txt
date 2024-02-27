@@ -1,0 +1,11 @@
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\bin\Debug\net6.0\eSya.GenerateToken.DO.deps.json
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\bin\Debug\net6.0\eSya.GenerateToken.DO.dll
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\bin\Debug\net6.0\eSya.GenerateToken.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\eSya.GenerateToken.DO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\eSya.GenerateToken.DO.AssemblyInfoInputs.cache
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\eSya.GenerateToken.DO.AssemblyInfo.cs
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\eSya.GenerateToken.DO.csproj.CoreCompileInputs.cache
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\eSya.GenerateToken.DO.dll
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\refint\eSya.GenerateToken.DO.dll
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\eSya.GenerateToken.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\ref\eSya.GenerateToken.DO.dll
