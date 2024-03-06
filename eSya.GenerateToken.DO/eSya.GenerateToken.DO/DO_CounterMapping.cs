@@ -61,5 +61,9 @@ namespace eSya.GenerateToken.DO
         public int UserID { get; set; }
         public string TerminalID { get; set; }
     }
-
+    public class DO_Floor
+    {
+        public int FloorId { get; set; }
+        public string FloorName { get; set; }
+    }
 }

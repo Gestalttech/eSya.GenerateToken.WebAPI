@@ -22,7 +22,7 @@ namespace eSya.GenerateToken.DO
         public int HoldOccurrence { get; set; }
         public int ReCallOccurrence { get; set; }
         public DateTime? ConfirmationTime { get; set; }
-        public string TokenStatus { get; set; } = null!;
+        public string? TokenStatus { get; set; } = null!;
         public DateTime? CompletedTime { get; set; }
         public bool ActiveStatus { get; set; }
         public string FormId { get; set; } = null!;
@@ -30,6 +30,8 @@ namespace eSya.GenerateToken.DO
         public string TerminalID { get; set; }
         public string? TokenType { get; set; }
         public DateTime? CreatedOn { get; set; }
+        public string? ConfirmationUrl { get; set; }
+        public string? QrcodeUrl { get; set; }
 
     }
     public class DO_OTP

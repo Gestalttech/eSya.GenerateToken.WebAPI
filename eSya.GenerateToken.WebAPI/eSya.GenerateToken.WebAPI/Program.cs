@@ -49,9 +49,9 @@ builder.Services.AddLocalization();
 
 builder.Services.AddScoped<IAddonRepository, AddonRepository>();
 builder.Services.AddScoped<ICommonDataRepository, CommonDataRepository>();
-builder.Services.AddScoped<ITokenGenerationRepository, TokenGenerationRepository>(); 
+builder.Services.AddScoped<ITokenGenerationRepository, TokenGenerationRepository>();
+builder.Services.AddScoped<ITokenManagementRepository, TokenManagementRepository>();
 //builder.Services.AddScoped<ITokenGenerationRepository, TokenGenerationRepository>();
-//builder.Services.AddScoped<ITokenManagementRepository, TokenManagementRepository>();
 //builder.Services.AddScoped<IDisplaySystemRepository, DisplaySystemRepository>();
 builder.Services.AddSingleton<IStringLocalizerFactory, JsonStringLocalizerFactory>();
 

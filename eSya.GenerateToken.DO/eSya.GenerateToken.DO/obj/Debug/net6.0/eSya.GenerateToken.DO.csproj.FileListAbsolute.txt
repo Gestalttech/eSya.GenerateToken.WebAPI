@@ -9,3 +9,4 @@ D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSy
 D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\refint\eSya.GenerateToken.DO.dll
 D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\eSya.GenerateToken.DO.pdb
 D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\ref\eSya.GenerateToken.DO.dll
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.DO\eSya.GenerateToken.DO\obj\Debug\net6.0\eSya.GenerateToken.DO.sourcelink.json

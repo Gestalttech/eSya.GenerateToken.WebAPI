@@ -13,3 +13,4 @@ D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.IF\eSy
 D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.IF\eSya.GenerateToken.IF\bin\Debug\net6.0\eSya.GenerateToken.DO.pdb
 D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.IF\eSya.GenerateToken.IF\obj\Debug\net6.0\eSya.GenerateToken.IF.csproj.AssemblyReference.cache
 D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.IF\eSya.GenerateToken.IF\obj\Debug\net6.0\eSya.GenerateToken.IF.csproj.CopyComplete
+D:\Projects\eSyaProjects2022\eSya.GenerateToken.WebAPI\eSya.GenerateToken.IF\eSya.GenerateToken.IF\obj\Debug\net6.0\eSya.GenerateToken.IF.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eSya.GenerateToken.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60455ceba0fcab6672e1374133ea07c52125cd90")]
 [assembly: System.Reflection.AssemblyProductAttribute("eSya.GenerateToken.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eSya.GenerateToken.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
