@@ -95,6 +95,8 @@ namespace eSya.GenerateToken.DL.Entities
 
                 entity.Property(e => e.LocationDescription).HasMaxLength(150);
 
+                entity.Property(e => e.Lstatus).HasColumnName("LStatus");
+
                 entity.Property(e => e.ModifiedOn).HasColumnType("datetime");
 
                 entity.Property(e => e.ModifiedTerminal).HasMaxLength(50);
